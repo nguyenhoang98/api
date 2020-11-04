@@ -239,46 +239,6 @@
             "description": "Áo khoác nam Nian Jeep Xanh quân đội phong cách đầy nam tính, chất liệu Polyester cao cấp mềm mịn, không nhăn, giữ ấm tốt",
             "price": 850000,
             "rating": 5
-        },
-        {
-            "id": 31,
-            "name": "Bộ Quần Áo Gió Uniqlo QAU01",
-            "src": "https://hanghieuvip.net/wp-content/uploads/2020/10/bo-quan-ao-uniqlo-qau01-2.jpg",
-            "description": "Thoáng Mát , Chất Lượng , Đẹp",
-            "price": 1100000,
-            "rating": 5
-        },
-        {
-            "id": 32,
-            "name": "Bộ Quần Áo Nỉ Thu Đông Nam Áo Khoác Hoodies FIGHT 9X",
-            "src": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYbRbTLjJlPhowMx_OhASFA05Mn96oDj6AiA4CyxN9BLGRv1RQZpCxRnN4IiwHdK4GnY4GacLIKRod-M3JUXh7eJgsVxpGC4-zh0UjYu1XgJxNEQHlrjzH&usqp=CAE",
-            "description": "Bộ Quần Áo Nỉ Thu Đông Nam Áo Khoác Hoodies FIGHT 9X Cá Tính Trẻ Trung Thời Trang 4MENHN SET NAM 9000063CC",
-            "price": 98000,
-            "rating": 4
-        },
-        {
-            "id": 33,
-            "name": "quần áo thu đông nam",
-            "src": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHkm_t2d_e2w-7JjhjuA-gdRfyIHeATMlASJQDB_k4jIsc0BQ0lOUQxj5GeLtvH_XkDm3T9fRPEFtWw0ENfUZmf-Z21VrT21oqWJ2p4Lj-dNuTlXKQz-PH&usqp=CAE",
-            "description": "quần áo thu đông nam",
-            "price": 275000,
-            "rating": 2
-        },
-        {
-            "id": 34,
-            "name": "ÁO KHOÁC NAM LÓT LÔNG CỪU SIÊU PHẨM MÙA ĐÔNG 20",
-            "src": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTlRlfVKoG74GrUxnL29Wtm-0vDaItlMsuvuqKrv_mei_T-UsEPux1puyzHb8t8ZBbQq2e7X2AEHY9fjFvf0MOhL5w72hGsRcE06sC-_Gm0U1UFKE-D2WeM&usqp=CAE",
-            "description": "Áo khoác Kaki form rộng Hàn Quốc 2019",
-            "price": 250000,
-            "rating": 3
-        },
-        {
-            "id": 35,
-            "name": "Áo khoác nam Nian Jeep",
-            "src": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3L20uKEnAbxWDbgz13l6UHnlD3xfuuN7FCQnoWvm5V8qiLUFOKMFYUTxSoZUP59FMqd6bnH-ZKKz_Wquv0axf-e-6GZXGz3hv2JrSNUI&usqp=CAE",
-            "description": "Áo khoác nam Nian Jeep phong cách đầy nam tính, chất liệu Polyester cao cấp mềm mịn, không nhăn, giữ ấm tốt",
-            "price": 850000,
-            "rating": 5
         }
     ]
 }
