@@ -159,46 +159,6 @@
             "description": "Chất Lượng Hàng Quảng Châu Cao Cấp",
             "price": 480000,
             "rating": 4
-        },
-        {
-            "id": 21,
-            "name": "Set Quần Áo Nữ Thời Trang Cao Cấp Màu Vàng",
-            "src": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSH1P4fOqC_yz4Vep9vOpcAA9lykNlRrj-luBlY_QUjPhDVV7tvZT-wgKvjzS3Sz7_AFh0v_07w7sdU4FOUKnoIHoBbE86L0zITk8h_rPm_BbpRKZtNQq88oQ&usqp=CAc",
-            "description": "Set Quần Áo Nữ Thời Trang Cao Cấp sẽ là sự lựa chọn hoàn hảo cho bạn trong mùa hè này",
-            "price": 332000,
-            "rating": 3
-        },
-        {
-            "id": 22,
-            "name": "SET BỘ THỜI TRANG NỮ BA NƠ",
-            "src": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQzW257_Wc37IZ-pFmRwGzipmLIUrl2AHWwkgOA_OtvtiJtiT7K3A1XxcE-Fzq-dsBmzTo8tAtI3gy5HgLa9Wu8UWYdDhR0ag3EUyIGCu-8&usqp=CAE",
-            "description": "Một đặc tính mà rất nhiều người dùng có thể dễ dàng nhận thấy ở sản phẩm vải thun cát hàn này đó chính là chúng vô cùng mềm mịn, không bị xù",
-            "price": 200000,
-            "rating": 5
-        },
-        {
-            "id": 23,
-            "name": "Set Bộ Đồ Nữ Áo Thun Cô Gái Và Quần Ống Rộng 2 Sọc Cá Tính",
-            "src": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTgdupf4M9c1f5HCJKABxC3cGvi011QOJNXY32gzHvwRPj0ek85V7a-PmORQlUmgdnrIFfc3ZtU77-KwTsI70BTEuZaU94-XeQL8ngwqB4&usqp=CAE",
-            "description": "Set Bộ Đồ Nữ Áo Thun Cô Gái Và Quần Ống Rộng 2 Sọc Cá Tính",
-            "price": 95000,
-            "rating": 3
-        },
-        {
-            "id": 24,
-            "name": "Set bộ nữ croptop uze kèm quần jogger túi hộp cực chất cá tính",
-            "src": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsPNNfb810A3q43vPcbRMrOshq7kqUupqKATeiVCT7Wt6q8MZe24SgXp1nilyk7c53qPxwxXxE3YkmoCR8Swfjs76FKdpGLmzxHX1wMQyg&usqp=CAE",
-            "description": "Set bộ nữ croptop uze kèm quần jogger túi hộp cực chất cá tínhÁo màu đen _ quần màu đen.Cá tính năng động hết xẩy; form freesz dưới 58kg mặc thoải mái!",
-            "price": 55000,
-            "rating": 2
-        },
-        {
-            "id": 25,
-            "name": "quần áo",
-            "src": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQt7YdrzsO6-FyqfCEwAE84Pq4nEevcKeRKtPKpzawi5g4CFLor2YN10yTq1QD3i0vexfAUeUJHmasqqOR1eOCX7wAeyQXVqCaog93ag4f76JyiQEKQUuPzNw&usqp=CAE",
-            "description": "chuyên bán quần áo thời trang nam nữ",
-            "price": 149000,
-            "rating": 3
         }
     ]
 }
